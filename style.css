@@ -4,7 +4,7 @@
     :root {
         --cor-de-fundo: #1E1E1E;
         --verde: #6FFF57;
-        --branco: #000000;
+        --branco: #FFFFFF;
         --botao-ativo: #fbff00;
         --botao-inativo: rgba(255, 251, 0, 0.5);
         --texto-fundo: rgba(48, 153, 0, 0.3);
@@ -43,7 +43,7 @@
     .botao {
         font-family: "Chakra Petch", sans-serif;
         background-color: var(--botao-inativo);
-        color: var(--branco);
+        color: black;
         display: flex;
         justify-content: center;
         padding: 1em;
