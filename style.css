@@ -11,9 +11,12 @@
     }
 
     body {
-        background-color: var(--cor-de-fundo);
+        /* background-color: var(--cor-de-fundo); */
         color: var(--branco);
         font-family: 'Chakra Petch', sans-serif;
+        background-image: url('https://www.cartacapital.com.br/wp-content/uploads/2022/08/000_32FZ7YG.jpg');
+        background-repeat: no-repeat;
+        background-size: contain;
     }
 
 
